@@ -20,7 +20,7 @@
 
 ## 📦 快速开始
 
-1. 从 [App Store]() 下载 antnfc
+1. 从 [App Store](https://apps.apple.com/cn/app/id1662343021) 下载 antnfc
 2. 准备数据（CSV 文件或官网二维码）
 3. 打开 App，选择「导入」→ 选择数据源
 4. 将 iPhone 靠近 NFC 标签，开始批量写入
@@ -38,6 +38,6 @@
 ## 📄 CSV 格式示例
 
 ```csv
-url,text
+url,content
 https://antnfc.com/s/001,产品A说明书
 https://antnfc.com/s/002,产品B保修卡
